@@ -17,9 +17,11 @@ Download Maven from the official website: Apache Maven.
 Extract the archive to a directory of your choice.
 Set the MAVEN_HOME environment variable to the Maven installation directory.
 Add Maven’s bin directory to your system's PATH to run Maven from the command line.
+
 3.Install PostgreSQL
 Download PostgreSQL from the official website: postgresql.
 version postgresql 17.4
+
 4. Configure IDE (Optional)
 If you're working with IntelliJ IDEA (or any IDE), make sure to:
 
